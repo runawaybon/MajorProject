@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    //hi there this is a test change
+
     private Button camera_button;
     private Button combine_letter_button;
     private Button open_control_arduino;
