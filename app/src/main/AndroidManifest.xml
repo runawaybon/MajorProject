@@ -2,13 +2,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.imagepro">
 
-    <uses-permission android:name="android.permission.CAMERA" />
-    <!--Permissions for Bluetooth access-->
+    <uses-permission android:name="android.permission.CAMERA" /> <!-- Permissions for Bluetooth access -->
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
     <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET"/>
 
     <uses-feature
         android:name="android.hardware.camera"
@@ -31,6 +31,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ImagePro">
         <activity
+            android:name=".TranslateActivity"
+            android:exported="false" />
+        <activity
             android:name=".CombineLettersActivity"
             android:exported="false" />
         <activity android:name=".CameraActivity" />
@@ -47,6 +50,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <uses-library android:name="org.apache.http.legacy" android:required="false" />
     </application>
 
 </manifest>
