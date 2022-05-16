@@ -4,11 +4,20 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Dell/neural_project/Sign_language_recognition_app/app/src/main/res/layout/activity_camera.xml" value="0.25" />
-        <entry key="..\:/Users/Dell/neural_project/Sign_language_recognition_app/app/src/main/res/layout/activity_combine_letters.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/neural_project/Sign_language_recognition_app/app/src/main/res/layout/activity_combine_letters.xml" value="0.18661639962299717" />
         <entry key="..\:/Users/Dell/neural_project/Sign_language_recognition_app/app/src/main/res/layout/activity_control_arduino.xml" value="0.1" />
-        <entry key="..\:/Users/Dell/neural_project/Sign_language_recognition_app/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/neural_project/Sign_language_recognition_app/app/src/main/res/layout/activity_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/neural_project/Sign_language_recognition_app/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/neural_project/Sign_language_recognition_app/app/src/main/res/layout/activity_my_base.xml" value="0.12132725430597771" />
         <entry key="..\:/Users/Dell/neural_project/Sign_language_recognition_app/app/src/main/res/layout/activity_translate.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/neural_project/Sign_language_recognition_app/app/src/main/res/layout/app_bar_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/neural_project/Sign_language_recognition_app/app/src/main/res/layout/content_drawer.xml" value="0.2" />
         <entry key="..\:/Users/Dell/neural_project/Sign_language_recognition_app/app/src/main/res/layout/device_info_layout.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/neural_project/Sign_language_recognition_app/app/src/main/res/layout/nav_activity_combineletters.xml" value="0.12132725430597771" />
+        <entry key="..\:/Users/Dell/neural_project/Sign_language_recognition_app/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/neural_project/Sign_language_recognition_app/app/src/main/res/menu/drawer.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/neural_project/Sign_language_recognition_app/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/neural_project/Sign_language_recognition_app/app/src/main/res/menu/navigation_menu.xml" value="0.2" />
       </map>
     </option>
   </component>
